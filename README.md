@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Mochan Putra.
  
-🔭 I’m currently working on Visiontech Indograha, Business Partner of Pertamina Hulu Rokan. 
-🌱 I’m currently learning about data analytic, data visualization, phyton and web development. 
-📫 You can reach my linkeind: https://www.linkedin.com/in/mochan-putra/ and email: mochanputra07@gmail.com. 
-⚡I have a motto to never stop learning and be the best version of yourself😄.
+-🔭 I’m currently working on Visiontech Indograha, Business Partner of Pertamina Hulu Rokan. 
+-🌱 I’m currently learning about data analytic, data visualization, phyton and web development. 
+-📫 You can reach my linkeind: https://www.linkedin.com/in/mochan-putra/ and email: mochanputra07@gmail.com. 
+-⚡I have a motto to never stop learning and be the best version of yourself😄.
 <!--
 **mochanputrah/mochanputrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
